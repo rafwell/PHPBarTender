@@ -1,0 +1,15 @@
+{
+    "name": "rafwell/php-bartender",
+    "authors": [
+        {
+            "name": "Rafael Souza",
+            "email": "rafaotec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rafwell\\Bartender\\": "src/"
+        }
+    }
+}
